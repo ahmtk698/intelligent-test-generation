@@ -1,0 +1,9 @@
+# --- Core Frameworks ---
+streamlit>=1.32.0           # web interface and dashboard
+groq>=0.4.2                 # high-speed llama-3 api access
+python-dotenv>=1.0.1        # secure management of api keys
+
+# --- Testing & Validation ---
+pytest>=8.0.0               # main test runner
+pytest-cov>=4.1.0           # coverage reporting for 100% target
+hypothesis>=6.98.0          # property-based testing and fuzzing
